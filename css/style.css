@@ -220,7 +220,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: #87CEEB;
 }
 
 .flower__white-circle::after {
@@ -306,7 +306,7 @@ body {
 }
 
 .flower__light:nth-child(odd) {
-  background-color: #fff;
+  background-color: #87CEEB;
 }
 
 .flower__light--1 {
